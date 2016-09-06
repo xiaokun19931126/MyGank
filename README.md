@@ -38,7 +38,7 @@
 
 ## Thanks To
 [gank.io](http://gank.io/)  
-[@Ivor](https://github.com/IvorHu/RealStuff)  
+[@IvorHu](https://github.com/IvorHu/RealStuff)  
 [@burgessjp](https://github.com/burgessjp/GanHuoIO)  
 以及所有为gank.io安卓客户端开源的人！
 
