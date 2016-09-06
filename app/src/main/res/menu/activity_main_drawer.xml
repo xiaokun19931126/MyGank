@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_girls"
+            android:icon="@drawable/girls"
+            android:title="@string/nav_girls" />
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/android"
+            android:title="@string/nav_android" />
+        <item
+            android:id="@+id/nav_ios"
+            android:icon="@drawable/ios"
+            android:title="@string/nav_ios" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/js"
+            android:title="@string/nav_web" />
+        <item
+            android:id="@+id/nav_app"
+            android:icon="@drawable/app"
+            android:title="@string/nav_app"/>
+        <item
+            android:id="@+id/nav_fun"
+            android:icon="@drawable/fun"
+            android:title="@string/nav_fun"/>
+        <item
+            android:id="@+id/nav_others"
+            android:icon="@drawable/others"
+            android:title="@string/nav_others"/>
+        <item
+            android:id="@+id/nav_collections"
+            android:icon="@drawable/like"
+            android:title="@string/nav_collections" />
+    </group>
+
+    <!--<item android:title="Communicate"">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="@string/action_share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="@string/action_send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

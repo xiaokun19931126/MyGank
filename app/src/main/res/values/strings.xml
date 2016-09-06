@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyGank</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_share">Share</string>
+    <string name="action_send">Send</string>
+    <string name="about">About</string>
+    <string name="action_about">About</string>
+    <string name="about_libs_used">Libraries used</string>
+    <string name="about_feas_used">Features supported</string>
+    <string name="nav_girls">Girls</string>
+    <string name="nav_android">Android</string>
+    <string name="nav_ios">iOS</string>
+    <string name="nav_web">Web</string>
+    <string name="nav_app">APP</string>
+    <string name="nav_others">Others</string>
+    <string name="nav_fun">Fun</string>
+    <string name="nav_collections">Collections</string>
+    <string name="nav_search">Search</string>
+    <string name="search_all">All</string>
+    <string name="api_all" translatable="false">all</string>
+    <string name="api_girls" translatable="false">福利</string>
+    <string name="api_android" translatable="false">Android</string>
+    <string name="api_ios" translatable="false">iOS</string>
+    <string name="api_web" translatable="false">前端</string>
+    <string name="api_app" translatable="false">App</string>
+    <string name="api_fun" translatable="false">瞎推荐</string>
+    <string name="api_others" translatable="false">拓展资源</string>
+    <string name="main_double_taps">Double Taps!</string>
+    <string name="fragment_refreshed">Refreshed.</string>
+    <string name="fragment_long_clicked">long clicked.</string>
+    <string name="fragment_load_more">Load more.</string>
+    <string name="fragment_no_more">No more.</string>
+    <string name="fetching_pic">Fetching background. Please view it later.</string>
+    <string name="share_msg">This message is from MyGank!</string>
+    <string name="url_api" translatable="false">http://gank.io</string>
+    <string name="url_repository" translatable="false">https://github.com/DomceyKoo/MyGank</string>
+    <string name="about_api">API http://gank.io</string>
+    <string name="about_repository_url">GitHub https://github.com/DomceyKoo</string>
+    <string name="about_icon_source">App icon by http://iconfont.cn/</string>
+    <string name="pic_saved">Picture saved at </string>
+    <string name="about_intro">Sharing My Gank everyday</string>
+    <string name="frag_is_fetching">Fetching data. Please switch later.</string>
+    <string name="version_name">Version: %1$s</string>
+    <string name="action_clear_cache">Clear cache</string>
+    <string name="clear_cache_all">All</string>
+    <string name="clear_type">Clear %1$s?</string>
+    <string name="confirm">Confirm</string>
+    <string name="network_request_error">Error request.</string>
+    <string name="network_server_error">Error in server.</string>
+    <string name="network_not_avaiable">Network not avaiable.</string>
+    <string name="network_timeout">Network timeout.</string>
+    <string name="network_io">Network I/O exception.</string>
+    <string name="search">Search %1$s</string>
+    <string name="search_tips">Only Chinese, numbers, English characters and space are allowed.</string>
+    <string name="no_search_cache">No search cache</string>
+</resources>
