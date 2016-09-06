@@ -36,7 +36,8 @@
 [Download now](http://fir.im/mygank)，只是一个demo，并未进行签名打包
 
 ## Thanks To
-[gank.io](http://gank.io/)
-[@Ivor](https://github.com/IvorHu/RealStuff)
+[gank.io](http://gank.io/)  
+[@Ivor](https://github.com/IvorHu/RealStuff)  
+[@burgessjp](https://github.com/burgessjp/GanHuoIO)  
 以及所有为gank.io安卓客户端开源的人！
 
