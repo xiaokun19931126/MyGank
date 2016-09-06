@@ -10,7 +10,7 @@
 ![](https://github.com/DomceyKoo/MyGank/blob/master/screenshot/3.png)
 ![](https://github.com/DomceyKoo/MyGank/blob/master/screenshot/4.png)
 ![](https://github.com/DomceyKoo/MyGank/blob/master/screenshot/5.png)
-![](https://github.com/DomceyKoo/MyGank/blob/master/screenshot/7.png)
+![](https://github.com/DomceyKoo/MyGank/blob/master/screenshot/8.png)
 ![](https://github.com/DomceyKoo/MyGank/blob/master/screenshot/6.png)
 
 ## Features  
