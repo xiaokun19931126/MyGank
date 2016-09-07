@@ -27,12 +27,12 @@ import io.realm.Realm;
 import io.realm.RealmResults;
 
 public class ImageFetchService extends IntentService implements ImageFetcher {
-    public static final String ACTION_UPDATE_RESULT = "com.ivor.meizhi.girls_update_result";
+    public static final String ACTION_UPDATE_RESULT = "com.domkoo.mygank.girls_update_result";
     public static final String EXTRA_FETCHED = "girls_fetched";
     public static final String EXTRA_TRIGGER = "girls_trigger";
     public static final String EXTRA_EXCEPTION_CODE = "exception_code";
-    public static final String ACTION_FETCH_REFRESH = "com.ivor.meizhi.girls_fetch_refresh";
-    public static final String ACTION_FETCH_MORE = "com.ivor.meizhi.girls_fetch_more";
+    public static final String ACTION_FETCH_REFRESH = "com.domkoo.mygank.girls_fetch_refresh";
+    public static final String ACTION_FETCH_MORE = "com.domkoo.mygank.girls_fetch_more";
     private static final String TAG = "ImageFetchService";
     private LocalBroadcastManager localBroadcastManager;
     private Constants.NETWORK_EXCEPTION mExceptionCode;
