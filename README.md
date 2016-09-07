@@ -37,7 +37,7 @@
 [Download now](http://fir.im/mygank)，只是一个demo，并未进行签名打包
 
 ## Thanks To
-[gank.io](http://gank.io/)  
+[@gank.io](http://gank.io/)  
 [@IvorHu](https://github.com/IvorHu/RealStuff)  
 [@burgessjp](https://github.com/burgessjp/GanHuoIO)  
 [@dongjunkun](https://github.com/dongjunkun/GanK)  
