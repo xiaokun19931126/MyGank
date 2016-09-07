@@ -23,13 +23,13 @@ import io.realm.RealmResults;
 import io.realm.exceptions.RealmPrimaryKeyConstraintException;
 
 public class StuffFetchService extends IntentService {
-    public static final String ACTION_UPDATE_RESULT = "com.ivor.meizhi.update_result";
+    public static final String ACTION_UPDATE_RESULT = "com.domkoo.mygank.update_result";
     public static final String EXTRA_FETCHED = "fetched";
     public static final String EXTRA_TRIGGER = "trigger";
     public static final String EXTRA_TYPE = "type";
     public static final String EXTRA_EXCEPTION_CODE = "exception_code";
-    public static final String ACTION_FETCH_REFRESH = "com.ivor.meizhi.fetch_refresh";
-    public static final String ACTION_FETCH_MORE = "com.ivor.meizhi.fetch_more";
+    public static final String ACTION_FETCH_REFRESH = "com.domkoo.mygank.fetch_refresh";
+    public static final String ACTION_FETCH_MORE = "com.domkoo.mygank.fetch_more";
     private static final String TAG = "StuffFetchService";
     private String type;
     private LocalBroadcastManager localBroadcastManager;
