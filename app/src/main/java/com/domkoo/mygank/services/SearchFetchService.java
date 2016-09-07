@@ -19,13 +19,13 @@ import java.util.List;
 import retrofit2.Response;
 
 public class SearchFetchService extends IntentService {
-    public static final String ACTION_UPDATE_RESULT = "com.ivor.meizhi.update_search";
+    public static final String ACTION_UPDATE_RESULT = "com.domkoo.mygank.update_search";
     public static final String EXTRA_FETCHED = "search_fetched";
     public static final String EXTRA_TRIGGER = "search_trigger";
     public static final String EXTRA_TYPE = "search_type";
     public static final String EXTRA_EXCEPTION_CODE = "search_exception_code";
-    public static final String ACTION_FETCH_REFRESH = "com.ivor.meizhi.fetch_search_refresh";
-    public static final String ACTION_FETCH_MORE = "com.ivor.meizhi.fetch_search_more";
+    public static final String ACTION_FETCH_REFRESH = "com.domkoo.mygank.fetch_search_refresh";
+    public static final String ACTION_FETCH_MORE = "com.domkoo.mygank.fetch_search_more";
     private static final String TAG = "SearchFetchService";
     private Constants.NETWORK_EXCEPTION mExceptionCode;
     private LocalBroadcastManager mLocalBroadcastManager;
