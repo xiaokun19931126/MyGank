@@ -40,6 +40,6 @@
 [gank.io](http://gank.io/)  
 [@IvorHu](https://github.com/IvorHu/RealStuff)  
 [@burgessjp](https://github.com/burgessjp/GanHuoIO)  
-[@dongjunkun](https://github.com/dongjunkun/GanK)
+[@dongjunkun](https://github.com/dongjunkun/GanK)  
 以及所有为gank.io安卓客户端开源的人！
 
